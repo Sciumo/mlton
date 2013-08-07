@@ -1,2 +1,12 @@
 /build/
 /install/
+
+*.o
+*.so
+*.dylib
+*.swp
+*.m4
+*.lo
+*.asm
+*.la
+.libs
